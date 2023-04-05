@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/opmemorygame/static/css/main.9d7789fe.css",
+    "main.js": "/opmemorygame/static/js/main.50b44bdf.js",
+    "static/media/vasko.jpg": "/opmemorygame/static/media/vasko.a01cae19f783d98ca525.jpg",
+    "static/media/apasiev.jpg": "/opmemorygame/static/media/apasiev.8ba11af569edf2091e94.jpg",
+    "static/media/obidzuko.jpg": "/opmemorygame/static/media/obidzuko.53976502d94d61295442.jpg",
+    "static/media/grujo.jpg": "/opmemorygame/static/media/grujo.5bc6217782e2bdaff78b.jpg",
+    "static/media/zajko.jpg": "/opmemorygame/static/media/zajko.986255ab0079afa9a960.jpg",
+    "static/media/caci.jpg": "/opmemorygame/static/media/caci.4ed6866474aaf3f024a6.jpg",
+    "static/media/right.mp3": "/opmemorygame/static/media/right.3f5f06eebfd840710e8a.mp3",
+    "static/media/wrong.mp3": "/opmemorygame/static/media/wrong.84fb98c1b1d135026b89.mp3",
+    "index.html": "/opmemorygame/index.html",
+    "main.9d7789fe.css.map": "/opmemorygame/static/css/main.9d7789fe.css.map",
+    "main.50b44bdf.js.map": "/opmemorygame/static/js/main.50b44bdf.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9d7789fe.css",
+    "static/js/main.50b44bdf.js"
+  ]
+}
